@@ -14,8 +14,6 @@ I am a Software Development Engineer focused on building high-performance, scala
 |:---------------------------| :--------------------------------------------------------------- |
 | **Backend & Architecture** | Java (Spring Boot), Python (FastAPI/Flask), TypeScript (Node.js) |
 | **Frontend & Mobile**      | Flutter (Dart), React (TypeScript), HTML5/CSS3/JS                |
-| **Low-Level & Embedded**   | C, Raspberry Pi, Microcontrollers, WSL                           |
-| **AI, Edge & Voice**       | Local LLMs, Ollama, Whisper.cpp, Piper TTS, Tokenization Engines |
 | **DevOps & Infrastructure**| Docker, Git, Linux / Bash, RESTful APIs & JWT Auth               |
 
 ---
